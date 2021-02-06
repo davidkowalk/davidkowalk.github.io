@@ -8,4 +8,4 @@ I have since moved onto things you might call "not terrible". My most recent pro
 
 My life plan is to study physics and work in space-exploration. We'll see how that turns out. Until then I'm doing some tutoring on the side.
 
-[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me food&emoji=🍕&slug=davidkowalk&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00">](https://www.buymeacoffee.com/davidkowalk)
+[<img src="https://img.buymeacoffee.com/button-api/?text=Support Me!&emoji=☕&slug=davidkowalk&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00">](https://www.buymeacoffee.com/davidkowalk)
