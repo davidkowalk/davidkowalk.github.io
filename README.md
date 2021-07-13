@@ -10,4 +10,4 @@ My life plan is to study physics and work in space-exploration. We'll see how th
 
 [<img src="https://img.buymeacoffee.com/button-api/?text=Support Me!&emoji=☕&slug=davidkowalk&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00">](https://www.buymeacoffee.com/davidkowalk)
 
-[To My Blog](https://davidkowalk.github.io/blog001.md)
+[To My Blog](https://davidkowalk.github.io/blog/blog001)
