@@ -10,7 +10,7 @@ This way you can get cylinder-type shapes with shaped tops and bottoms and the m
 
 The box is made out of two different type of parts: four wall pieces which are glued together and two top/bottom pieces which are bolted on to provide the necessary pressure to remove the water, essentially creating a make-shift vice.
 
-[Picture here]
+![Isometric View](https://i.imgur.com/sLadjlP.png)
 
 If I want to make just one mould it's a pretty straight forward process: The local hardware-store sells two sizes of pretty cheap pine-wood with the right thickness:
 - 600x200x18mm and
