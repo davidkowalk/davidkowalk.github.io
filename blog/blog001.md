@@ -18,15 +18,13 @@ If I want to make just one mould it's a pretty straight forward process: The loc
 
 But I can fit all pieces on the smaller size, with the wall being 100x120x18mm and the top and bottom pieces being 140x140x140mm. This however is a pretty wasteful arrangement with only about 73% of the wood being used and if you want to make multiple of these moulds you can save quite a bit of money choosing a more efficient design. Over all I found 5 different arrangement of parts on the boards.
 
-![Option A](https://imgur.com/s0iIh9n)
+![Option A](https://i.imgur.com/s0iIh9n.png)
 
-![Option B](https://imgur.com/Rg8keqX)
+![Option B](https://i.imgur.com/qvGqWqN.png)
 
-![Option C](https://imgur.com/eH2IEJT)
+![Option C](https://i.imgur.com/NJyxMsQ.png)
 
-![Option D](https://imgur.com/L08TgRA)
-
-![Option E](https://imgur.com/L08TgRA)
+![Option D](https://i.imgur.com/BgkQ497.png)
 
 Remember: We need 4 sides and 2 end-parts for each mould, but if you count the parts on the boards you can clearly see, that only option A has the perfect ratio of end-to-side parts. Option B has too many sides, C has no ends at all and the options D and E have more end-parts. We now need to find a good combination of these different cutting patterns to fit our part-requirements as closely as possible.
 
@@ -235,7 +233,7 @@ The length of the array that represents the combination is equal to the number o
 Short answer: Pretty ok.
 Long answer: I works fine, but there are some improvements to be made.
 
-![50 Moulds, Error Graph](https://imgur.com/T9mA4BL)
+![50 Moulds, Error Graph](https://i.imgur.com/q9In66G.png)
 Here is an example where I asked to calculate for 50 moulds with a maximum of 30 Generations.
 You can see, how the waste-score starts high, at 15000, but quickly drops in a linear fashion. It then plateaus at 1589 points.
 
@@ -259,7 +257,7 @@ Ends: 0
 Price: 219.77€
 ```
 
-![200 Moulds, Error Graph](https://imgur.com/3aWdh7R)
+![200 Moulds, Error Graph](https://i.imgur.com/bzOp8ar.png)
 Requesting larger amounts (200) looks similar. Here something very interesting happened, and it turned out to be reproducable:
 
 ```
